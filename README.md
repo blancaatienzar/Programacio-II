@@ -5,4 +5,6 @@ En aquest taller hi havia que fer una simulació d'una estadística d'un vídeo 
 seqüencial amb sentinella amb dades de jugadors volem calcular una sèrie de dades estadístiques per això 
 s'ha d'escriure un programa que mitjançant un menú simple gestionat des de la consola.
 #### TALLER 2
+En aquest taller hi havia que realitzar la implementació de una aplicació que posibilite adivinar, a través 
+de sus notes musicals, una melodia introduïda previament.
 ### 
