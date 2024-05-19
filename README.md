@@ -7,6 +7,6 @@ s'ha d'escriure un programa que mitjançant un menú simple gestionat des de la 
 #### TALLER 2
 En aquest taller hi havia que realitzar la implementació de una aplicació que posibilite adivinar, a través 
 de sus notes musicals, una melodia introduïda previament.
-### PRàCTICA
+### PRÀCTICA
 La pràctica es tracta de dur a terme la implementació d’una aplicació que possibiliti resoldre imatges
 trencaclosques de forma interactiva en un temps determinat.
